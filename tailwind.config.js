@@ -4,10 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        "primary-black": "#000",
+        "primary-black": "#020d13",
         "primary-red": "#FF0000",
         "primary-white": "#FFF",
       },
+    },
+    fontFamily: {
+      display: ["Fjalla One", "sans-serif"],
     },
   },
   plugins: [],
